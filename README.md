@@ -1,4 +1,4 @@
-# Bitcoin Price Forecasting Using Machine Learning: Comparing Linear Regression, LSTM, Random Forest and XGBoost
+## Bitcoin Price Forecasting Using Machine Learning: Comparing Linear Regression, LSTM, Random Forest and XGBoost
 
 A machine learning project that evaluates four models for predicting the daily closing price of Bitcoin (BTC-USD), using a combination of on-chain blockchain metrics, macroeconomic indicators, and market sentiment proxies.
 
