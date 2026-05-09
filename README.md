@@ -45,6 +45,22 @@ Features were selected based on their established relationship with Bitcoin pric
 
 ---
 
+## Data
+
+Raw data files are not included in this repository in order to avoid redistributing third-party datasets.
+
+To reproduce the analysis, download the relevant daily data from the original sources and place the files in the project directory using the filenames expected in the notebook.
+
+Data sources used in this project include:
+
+- **BTC & USDT market data** — [CoinGecko](https://www.coingecko.com)
+- **S&P 500, Gold, VIX, and US Dollar Index** — [Investing.com](https://www.investing.com)
+- **Federal Reserve Balance Sheet (WALCL)** — [FRED](https://fred.stlouisfed.org/series/WALCL)
+- **Hash Rate and MVRV Ratio** — [Blockchain.com](https://www.blockchain.com/charts)
+- **Crypto Fear & Greed Index** — [Alternative.me](https://alternative.me/crypto/fear-and-greed-index/)
+
+---
+
 ## Notebook Structure
 
 ```
